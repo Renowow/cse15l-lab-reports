@@ -86,6 +86,7 @@ entering your password
 3. log into SSH without password and check, it already there!
 
 4. What's more, We can use the pattern: ssh cs15lsp22zz@ieng6.ucsd.edu "<commands>", and it only takes one step to implement command in server from client. Really reduce time!
+
 ![hints](lab1.6.png)
 
 ## Work cite
