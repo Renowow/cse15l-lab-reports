@@ -90,4 +90,4 @@ entering your password
 ![hints](lab1.6.png)
 
 ## Work cite
-https://canvas.ucsd.edu/courses/37650/files/6790252?module_item_id=1346316
+[lab1](https://canvas.ucsd.edu/courses/37650/files/6790252?module_item_id=1346316)
