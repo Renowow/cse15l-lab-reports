@@ -27,7 +27,7 @@
 ### Code Change 2
 * Screenshot of the code change
     
-    ![CodeChang2](lab2.3.png)
+    ![CodeChang2]()
 
 * Link to the test file with failure input
 
@@ -45,7 +45,7 @@
 ### Code Change 3
 * Screenshot of the code change
     
-    ![CodeChang3](lab2.5.png)
+    ![CodeChang3]()
 
 * Link to the test file with failure input
 
