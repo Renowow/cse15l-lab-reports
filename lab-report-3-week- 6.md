@@ -7,6 +7,7 @@
 
 
 ## Streamline `ssh` Configuration
+
 ---
 
 * ### Show your `.ssh/config` file, and how you edited it (with VScode, another program, etc)
@@ -37,6 +38,7 @@
 
 
 ## Set up Github Access from ieng6
+
 ---
 
 * ### Show where the public key you made is stored on Github and in your user account (screenshot)
@@ -69,6 +71,7 @@
 
 
 ## Copy Whole Directories with `scp -r`
+
 ---
 
 * ### Show copying your whole markdown-parse directory to your ieng6 account
