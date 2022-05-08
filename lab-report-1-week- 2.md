@@ -71,8 +71,10 @@ System.out.println(System.getProperty("user.dir"));
     
 6. on your computer put:`$ scp /Users/<user-name>/.ssh/id_rsa.pub
 cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
-    
-7. Now you should be able to ssh or scp from this client to the server without
+
+7. Type in your passwords agian
+
+8. Now you should be able to ssh or scp from this client to the server without
 entering your password
 ![SSH key](lab1.5.png)
 
